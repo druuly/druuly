@@ -1,8 +1,8 @@
 hi 👋
 
 * i'm oscar
-* i'm a hs student who likes building all different types of stuff
-* my fav language is python. i hope to get better with c++ and electrical projects
+* i'm a senior in highschool studying cs, intending to major in eecs
+* currently learning java, hope to learn more c++ and rust later
 
 # find me
 * email: oscareucedaf1@gmail.com
